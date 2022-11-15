@@ -1,0 +1,14 @@
+	Hjälptext för sortering
+	=======================
+
+	Här får du välja hur du vill sortera utskriften.
+	Du kan sortera efter flera olika egenskaper.
+	Sorterar och skriver ut innehållet i datafilen .
+	i  -  efter produktnummer 
+	n  -  efter namn
+	v  -  efter vikt
+	l  -  efter längd
+	b  -  efter bredd
+	h  -  efter höjd
+	?  -  Skriver ut den här hjälptexten.
+	q  -  Återvänd till förstasidan.
