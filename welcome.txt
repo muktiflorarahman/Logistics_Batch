@@ -1,0 +1,19 @@
++-------------------------------------+
+    ¦  Lasses Logistik och Logik!         ¦
+    ¦  Vi har ett flertal olika möbler.   ¦
+    +-------------------------------------+
+
+
+Du får här flera alternativ.
+Välj ett av dessa för att gå vidare.
+b  -  /backup	Genererar en säkerhetskopia av datafilen i samma katalog.
+p  -  /print	Skriver ut innehållet i datafilen.
+s  -  /sort	Sorterar och skriver ut innehållet i datafilen .
+            i efter produktnummer
+            n efter namn
+            v efter vikt
+            l efter längd
+            b efter bredd
+            h efter höjd
+?  -  Skriver ut den här hjälptexten.
+q  -  /quit	Avsluta programmet.
